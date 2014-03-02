@@ -2,6 +2,7 @@ name: PandoraCore
 main: me.DawnBudgie.PandoraCore.PandoraCore
 description: Secret Sauce plugin, SHHHhhh...
 version: 1.5.3
+website: https://github.com/PandorasBlocks
 author: DawnBudgie
 
 commands:
