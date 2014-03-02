@@ -1,0 +1,13 @@
+name: PandoraCore
+main: me.DawnBudgie.PandoraCore.PandoraCore
+description: Secret Sauce plugin, SHHHhhh...
+version: 1.5.3
+author: DawnBudgie
+
+commands:
+  pcs:
+    description: Reload PandoraCore config.
+    permission: pc.reload
+  pcr:
+    description: Save PandoraCore config.
+    permission: pc.save

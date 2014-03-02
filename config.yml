@@ -1,0 +1,4 @@
+## Do not change the colour codes set.
+## Colour code : &. Do not change that.
+join: '&7(&b+&7) &7 %player%'
+quit: '&7(&4-&7) &7 %player%'
