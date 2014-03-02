@@ -53,7 +53,7 @@ public class PandoraCore
         {
           saveResource("config.yml", false);
           reloadConfig();
-          ((Player)sender).sendMessage("§aPandoraCore config reloaded!");
+          ((Player)sender).sendMessage("&4PandoraCore config reloaded!");
           System.out.print("Reloaded the PandoraCore config.");
         }
       }
@@ -63,7 +63,7 @@ public class PandoraCore
         if ((sender.hasPermission("pc.save")) || (sender.isOp()))
         {
           saveResource("config.yml", false);
-          ((Player)sender).sendMessage("§aPandoraCore config saved!");
+          ((Player)sender).sendMessage("&4PandoraCore config saved!");
           System.out.print("Saved the PandoraCore config.");
         }
       }
